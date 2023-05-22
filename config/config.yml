@@ -1,0 +1,9 @@
+database:
+  host: 127.0.0.1
+  port: 5432
+  name: satang_db
+  dbname: postgres
+client: "wss://eth-mainnet.g.alchemy.com/v2/A8jsKODvb863mCzhOurCU9jkQEEWJptK"
+addresses: 
+  - 0x28c6c06298d514db089934071355e5743bf21d60
+  - 0xc8cd2be653759aed7b0996315821aae71e1feadf
