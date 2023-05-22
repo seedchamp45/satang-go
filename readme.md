@@ -71,3 +71,10 @@ The configuration for the application is stored in the `condig/config.yml` file.
   - `user`: The username to authenticate with the PostgreSQL database server.
   - `password`: The password to authenticate with the PostgreSQL database server.
 - `address` : The ethereum address
+
+## Result
+<img width="750" alt="Screen Shot 2566-05-22 at 21 11 39" src="https://github.com/seedchamp45/satang-go/assets/8091233/e82b9b6a-d976-43de-a101-4245cd32d62e">
+<img width="1083" alt="Screen Shot 2566-05-22 at 21 11 59" src="https://github.com/seedchamp45/satang-go/assets/8091233/48b11905-1670-4faa-a016-b7d4be857223">
+
+
+
